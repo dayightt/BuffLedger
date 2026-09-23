@@ -1,0 +1,9 @@
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+# Local SavedVariables workaround tooling; never part of the addon.
+ForeverSVFix*

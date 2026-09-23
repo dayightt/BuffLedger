@@ -1,0 +1,9 @@
+package-as: BuffLedger
+
+ignore:
+  - tests
+  - docs
+  - screenshots
+  - .github
+  - .pkgmeta
+  - .gitignore
