@@ -1,8 +1,8 @@
-<img src="docs/art/logo.png" alt="BuffLedger" width="180" align="right">
+<img src="https://raw.githubusercontent.com/dayightt/BuffLedger/main/docs/art/logo.png" alt="BuffLedger" width="180" align="right">
 
 # BuffLedger
 
-![BuffLedger's buff bar](screenshots/buffbar.png)
+![BuffLedger's buff bar](https://raw.githubusercontent.com/dayightt/BuffLedger/main/screenshots/buffbar.png)
 
 A buff bar for **World of Warcraft: Forever** that sorts your buffs into colour-coded categories. Mage buffs sit together with a mage-blue border, paladin blessings in pink, your food and elixirs in green, and so on. You can see at a glance who buffed you, what you're missing, and what's about to fall off.
 
@@ -31,13 +31,13 @@ BuffLedger knows a long list of buffs out of the box. For anything it doesn't kn
 
 ### Move any buff with a shift-click
 
-![Moving a buff to another category](screenshots/category.png)
+![Moving a buff to another category](https://raw.githubusercontent.com/dayightt/BuffLedger/main/screenshots/category.png)
 
 **Shift-click** (left or right) any buff on the bar and pick a category from the menu. The buff goes there from then on, on every character. A **plain right-click** cancels the buff, as usual.
 
 ### Consolidation
 
-![A consolidated category](screenshots/consolidated.png)
+![A consolidated category](https://raw.githubusercontent.com/dayightt/BuffLedger/main/screenshots/consolidated.png)
 
 Raid buffs can take over a whole row. Mark a category to **consolidate** and it collapses into a single icon with a count in the corner. **Hover it** and the full set pops out underneath. Buffs in the pop-out can be shift-clicked and right-clicked just like the ones on the bar.
 
@@ -45,7 +45,7 @@ You can consolidate categories one by one, all at once with **Consolidate All**,
 
 ### A Categories page for everything else
 
-![The Categories page](screenshots/category-options.png)
+![The Categories page](https://raw.githubusercontent.com/dayightt/BuffLedger/main/screenshots/category-options.png)
 
 Open it from **Esc → Options → AddOns → BuffLedger → Categories** or with `/bl categories`:
 
@@ -95,4 +95,4 @@ The bar keeps updating in combat, so buffs appear, tick down and drop off just a
 
 ## License
 
-MIT - see [LICENSE](LICENSE).
+MIT - see [LICENSE](https://github.com/dayightt/BuffLedger/blob/main/LICENSE).
